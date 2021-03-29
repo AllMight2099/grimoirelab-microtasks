@@ -21,9 +21,9 @@ This repository contains the status of my microtasks to Chaoss' Grimorelab proje
 
 - [ ] Microtask 8: Improve the visualization of the individualCards component. You need not send a PR, please update the work in your personal fork.
 
-- [ ] [Microtask 9](): Submit a PR to any of the GrimoireLab components to increase the test coverage of one or more files of the source code.
+- [ ] [Microtask 9](microtask_9-10.md): Submit a PR to any of the GrimoireLab components to increase the test coverage of one or more files of the source code.
 
-- [ ] [Microtask 10](): Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc.
+- [ ] [Microtask 10](microtask_9-10.md): Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc.
 
 ## About Me
 Hey there!
